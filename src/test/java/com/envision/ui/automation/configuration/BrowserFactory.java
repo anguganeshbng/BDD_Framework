@@ -28,6 +28,7 @@ public class BrowserFactory {
 
 	
 	// Get Driver Instance Method
+	// New changes
 	public WebDriver getDriverInstance() {
 		return this.driver;
 	}
