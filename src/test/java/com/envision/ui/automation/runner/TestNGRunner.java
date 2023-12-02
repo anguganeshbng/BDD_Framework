@@ -11,6 +11,7 @@ import io.cucumber.testng.CucumberOptions;
 		tags = "@ValidateGooglePageScenarios", 
 		publish = true, 
 		dryRun = false, 
+		monochrome = true,
 		plugin = {
 
 				"pretty",
