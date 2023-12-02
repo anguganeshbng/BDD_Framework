@@ -27,6 +27,7 @@ public class BrowserFactory {
 	private WebDriver driver;
 
 	
+	// Get Driver Instance Method
 	public WebDriver getDriverInstance() {
 		return this.driver;
 	}
